@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:010409,50:0c2d6b,100:1f6feb&text=Hola%2C%20soy%20TU_NOMBRE&fontColor=e6edf3&fontSize=50&fontAlign=50&fontAlignY=38&desc=dev%20%E2%97%88%20creative%20%E2%97%88%20always%20learning&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:010409,50:0c2d6b,100:1f6feb&text=Hola%2C%20soy%20Thiago&fontColor=e6edf3&fontSize=50&fontAlign=50&fontAlignY=38&desc=dev%20%E2%97%88%20creative%20%E2%97%88%20always%20learning&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&height=40&lines=Desarrollador%2Fa+en+construcci%C3%B3n+%E2%97%88;Me+encanta+crear+cosas+lindas+%F0%9F%92%99;Caf%C3%A9+%2B+c%C3%B3digo+%2B+m%C3%BAsica+%F0%9F%8E%A7;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%8C" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&height=40&lines=Desarrollador+en+construcci%C3%B3n+%E2%97%88;Me+encanta+crear+cosas+lindas+%F0%9F%92%99;Caf%C3%A9+%2B+c%C3%B3digo+%2B+m%C3%BAsica+%F0%9F%8E%A7;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%8C" alt="typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=visitas&color=1f6feb&style=flat-square&labelColor=0d1117" alt="visitas"/>
-<img src="https://img.shields.io/github/followers/TU_USUARIO?label=seguidores&color=1f6feb&style=flat-square&labelColor=0d1117" alt="seguidores"/>
-<img src="https://img.shields.io/github/stars/TU_USUARIO?label=stars&color=388bfd&style=flat-square&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/repos/TU_USUARIO?label=repos&color=58a6ff&style=flat-square&labelColor=0d1117" alt="repos"/>
+<img src="https://komarev.com/ghpvc/?username=InteraktiveDev2&label=visitas&color=1f6feb&style=flat-square&labelColor=0d1117" alt="visitas"/>
+<img src="https://img.shields.io/github/followers/InteraktiveDev2?label=seguidores&color=1f6feb&style=flat-square&labelColor=0d1117" alt="seguidores"/>
+<img src="https://img.shields.io/github/stars/InteraktiveDev2?label=stars&color=388bfd&style=flat-square&labelColor=0d1117" alt="stars"/>
+<img src="https://img.shields.io/github/repos/InteraktiveDev2?label=repos&color=58a6ff&style=flat-square&labelColor=0d1117" alt="repos"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ```bash
 $ whoami
-> TU_NOMBRE — dev ✦ Buenos Aires 🇦🇷
+> Thiago Zambonini — dev ✦ Buenos Aires 🇦🇷
 
 $ cat intereses.txt
 > frontend · backend · diseño UI · open source · música
@@ -49,12 +49,12 @@ $ echo $MENSAJE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&ring_color=1f6feb&border_color=1f6feb&border_radius=12&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&border_radius=12" alt="lenguajes"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=InteraktiveDev2&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&ring_color=1f6feb&border_color=1f6feb&border_radius=12&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InteraktiveDev2&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&border_radius=12" alt="lenguajes"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&border=1f6feb&border_radius=12" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=InteraktiveDev2&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&border=1f6feb&border_radius=12" alt="streak"/>
 
 </div>
 
@@ -64,18 +64,7 @@ $ echo $MENSAJE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&height=300&custom_title=Contribuciones&title_color=58a6ff" width="100%" alt="activity graph"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="100%" alt="divider"/>
-
-## ◈ snake
-
-<div align="center">
-
-<!-- Requiere el workflow snake.yml (ver instrucciones). Se genera solo cada 12 horas. -->
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-blue.svg" width="100%" alt="snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InteraktiveDev2&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&height=300&custom_title=Contribuciones&title_color=58a6ff" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -85,11 +74,11 @@ $ echo $MENSAJE
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/PROYECTO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_1&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 1"/>
+<a href="https://github.com/InteraktiveDev2/PROYECTO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=InteraktiveDev2&repo=PROYECTO_1&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 1"/>
 </a>
-<a href="https://github.com/TU_USUARIO/PROYECTO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_2&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 2"/>
+<a href="https://github.com/InteraktiveDev2/PROYECTO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=InteraktiveDev2&repo=PROYECTO_2&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 2"/>
 </a>
 
 </div>
@@ -100,7 +89,7 @@ $ echo $MENSAJE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trofeos"/>
+<img src="https://github-profile-trophy.vercel.app/?username=InteraktiveDev2&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trofeos"/>
 
 </div>
 
@@ -124,11 +113,19 @@ $ echo $MENSAJE
 
 <div align="center">
 
-<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-0c2d6b?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-388bfd?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-58a6ff?style=for-the-badge&logo=x&logoColor=0d1117" alt="twitter"/></a>
-<a href="https://TU_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-79c0ff?style=for-the-badge&logo=firefox&logoColor=0d1117" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/thiagozambonini"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:thiagozambonini24@gmail.com"><img src="https://img.shields.io/badge/Email-0c2d6b?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://instagram.com/zambo_thiago"><img src="https://img.shields.io/badge/Instagram-388bfd?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://twitter.com/interaktiveDev"><img src="https://img.shields.io/badge/Twitter-58a6ff?style=for-the-badge&logo=x&logoColor=0d1117" alt="twitter"/></a>
+<a href="https://interaktivesolutions.com"><img src="https://img.shields.io/badge/Portfolio-79c0ff?style=for-the-badge&logo=firefox&logoColor=0d1117" alt="portfolio"/></a>
+
+<br/><br/>
+
+<sub>◈ hecho con café ☕ y mucho azul ◈</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:010409,50:0c2d6b,100:1f6feb&section=footer&animation=twinkling" width="100%" alt="footer"/>
+
+</div>
 
 <br/><br/>
 
