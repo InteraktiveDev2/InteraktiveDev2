@@ -11,7 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=InteraktiveDev2&label=visitas&color=1f6feb&style=flat-square&labelColor=0d1117" alt="visitas"/>
 <img src="https://img.shields.io/github/followers/InteraktiveDev2?label=seguidores&color=1f6feb&style=flat-square&labelColor=0d1117" alt="seguidores"/>
 <img src="https://img.shields.io/github/stars/InteraktiveDev2?label=stars&color=388bfd&style=flat-square&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/repos/InteraktiveDev2?label=repos&color=58a6ff&style=flat-square&labelColor=0d1117" alt="repos"/>
 
 </div>
 
@@ -21,7 +20,7 @@
 
 ```bash
 $ whoami
-> Thiago Zambonini — dev ✦ Buenos Aires 🇦🇷
+> Thiago Zambonini — dev ✦ Mar Del Plata 🇦🇷
 
 $ cat intereses.txt
 > frontend · backend · diseño UI · open source · música
@@ -60,40 +59,6 @@ $ echo $MENSAJE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="100%" alt="divider"/>
 
-## ◈ actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InteraktiveDev2&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&height=300&custom_title=Contribuciones&title_color=58a6ff" width="100%" alt="activity graph"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="100%" alt="divider"/>
-
-## ◈ proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/InteraktiveDev2/PROYECTO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=InteraktiveDev2&repo=PROYECTO_1&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 1"/>
-</a>
-<a href="https://github.com/InteraktiveDev2/PROYECTO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=InteraktiveDev2&repo=PROYECTO_2&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=1f6feb&border_radius=12" alt="proyecto 2"/>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="100%" alt="divider"/>
-
-## ◈ trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=InteraktiveDev2&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trofeos"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="100%" alt="divider"/>
 
 ## ◈ vibes
 
