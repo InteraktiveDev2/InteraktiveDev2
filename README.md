@@ -86,16 +86,10 @@ $ echo $MENSAJE
 
 <br/><br/>
 
-<sub>◈ hecho con café ☕ y mucho azul ◈</sub>
+<sub>◈ hecho con café ☕ ◈</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:010409,50:0c2d6b,100:1f6feb&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
 
 <br/><br/>
-
-<sub>◈ hecho con café ☕ y mucho azul ◈</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:010409,50:0c2d6b,100:1f6feb&section=footer&animation=twinkling" width="100%" alt="footer"/>
-
-</div>
